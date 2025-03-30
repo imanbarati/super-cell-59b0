@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "super-cell-59b0",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "a5eab460-6668-4eb3-bf24-fadbdddb733a",
+      "database_name": "odd-moon-1df4-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
